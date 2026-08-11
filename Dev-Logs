@@ -1,1 +1,24 @@
+Dev-Log #1
 
+- Changed the radar to B-SCOPE style
+
+    Added Bearing, Range, Altitude measuring to radar (BRA)
+
+This is a standard military combat shorthand format 
+used to pinpoint a target's location relative to your aircraft. 
+It stands for Bearing (direction in degrees), 
+Range (distance in nautical miles), and Altitude (height of the contact)
+
+
+    Added "Radar Mode" measuring to radar (MODE)
+
+This displays the current tracking or scanning sub-mode 
+the radar is operating under, often combined with information 
+like expected target speed thresholds (such as knots).
+
+
+    Added "Channel" measuring to radar(CHAN)
+
+This displays the active data link channel frequency 
+being used to share tactical info with friendly aircraft.
+(Visual for now)
