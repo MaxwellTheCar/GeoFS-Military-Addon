@@ -5,7 +5,7 @@ This is a tutorial on how to use this addon.
 
 This Addon has nothing to do with GMRP or any GeoFS military roleplay community. I'm saying this because recently, Google's AI kept stating that this addon is made to enhance your MRP experience.
 
-**Current script version 0.0.1.5**
+**Current script version 0.0.2**
 
 **WARNING: THIS ADDON CURRENTLY ONLY WORKS WITH GEOFS BETA 4.0**
 
@@ -24,7 +24,7 @@ After pasting the code in tampermonkey, go to geofs.com and the addon should loa
 
 **HOW TO USE THIS ADDON**
 
-As of 0.0.1.5, It's still relatively simple.
+As of 0.0.2, It's still relatively simple.
 
 Spawn in one if these planes (Su-35, F/A-18, rafale, F-16)
 
