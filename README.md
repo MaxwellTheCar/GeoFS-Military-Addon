@@ -28,19 +28,19 @@ As of 0.0.2, It's still relatively simple.
 
 Spawn in one if these planes (Su-35, F/A-18, rafale, F-16)
 
-Once you spawn in, you must be on the ground
+Once you spawn in, you must be on the ground with engines off
 
-Turn off the engine or press **E**
+To turn off the engine press **E**
 
 After coming to a stop, a button will appear
 
-Click the button and select your desired missiles
+Click the button and select your missiles
 
 Once that's done, it will be safe to take-off
 
 To turn the weapon system on, press **L**
 
-To lock a target, navigate the "aiming ring" on your target
+To lock a target, navigate the "white ring" on the target
 
 To fire a missile, press **SHIFT**
 
